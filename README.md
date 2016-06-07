@@ -49,11 +49,3 @@ To use ZSH instead of BASH, set the following in mintty-quake-console.ini (zsh m
 
 	mintty_args=/bin/zsh -li
 
-Download my [minttyrc](https://github.com/lonepie/dotfiles/raw/master/minttyrc) for my font/color settings
-
-	$ wget -O ~/.minttyrc https://github.com/lonepie/dotfiles/raw/master/minttyrc
-
-## TO DO
-* pseudo-tabs implementation
-* create a port for puTTY/kiTTY
-* a port for Console2 or ConEmu?
